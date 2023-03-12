@@ -1,2 +1,2 @@
 # Trek-It
-## A Demo Project for learnig Html , CSS , Js
+## A Demo Project for learning Html , CSS , JavaScript
